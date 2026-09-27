@@ -12,4 +12,4 @@ persona.Apellido = "Perez";
 
 Console.WriteLine(persona.MostraDatos());
 
-Console.WriteLine("Final");
+Console.WriteLine("Fin");
